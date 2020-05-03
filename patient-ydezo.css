@@ -80,8 +80,8 @@
 .container {
   position: relative;
   min-height: 300px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../images/5ea6d5b3fc3264e638beee79_5e59516288701631bcd16c38_c9f6c28600080034b50aa14f57214bf0.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/5ea6d5b3fc3264e638beee79_5e59516288701631bcd16c38_c9f6c28600080034b50aa14f57214bf0.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://uploads-ssl.webflow.com/5e6154d77b001d505f447448/5e61572462278a95c3ec0d9c_5e4ff5e2b1f6eac9587bfc1e_c9f6c28600080034b50aa14f57214bf0.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://uploads-ssl.webflow.com/5e6154d77b001d505f447448/5e61572462278a95c3ec0d9c_5e4ff5e2b1f6eac9587bfc1e_c9f6c28600080034b50aa14f57214bf0.jpg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
